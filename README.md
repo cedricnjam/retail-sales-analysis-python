@@ -174,6 +174,5 @@ L'analyse de la matrice de corrélation linéaire montre :
 retail-sales-analysis-python/
 ├── Superstore.csv                    # Jeu de données source brut (9 994 lignes)
 ├── Superstore Data Analysis.ipynb    # Notebook Jupyter interactif d'exploration
-├── eda_superstore.py                 # Script Python autonome de nettoyage et génération
 └── README.md                         # Documentation technique et analytique officielle
 ```
