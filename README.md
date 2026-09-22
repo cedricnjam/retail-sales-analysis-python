@@ -126,6 +126,14 @@ L'analyse de la matrice de corrélation linéaire montre :
 | **#4** | HON 5400 Series Task Chairs for Big and Tall | $21 870,58 | $0,00 | **NON** |
 | **#5** | GBC DocuBind TL300 Electric Binding System | $19 823,48 | $485,76 | **NON** |
 
+## 📊 Visualisations & Analyses Clés
+
+### 1. Analyse des Corrélations & Performance par Catégorie
+![Matrice de Corrélation et Marges](images/python_preview.png)
+
+### 2. Analyse Complémentaire
+![Approfondissement EDA](images/python_preview_2.png)
+
 **Enseignements majeurs tirés des données :**
 1. **L'illusion du volume brut :** Seuls 2 produits sur 5 appartenant au Top Ventes figurent également dans le Top Profit (Canon imageCLASS et Fellowes PB500).
 2. **Le cas critique du système Cisco TelePresence :** Bien que classé 3e plus gros produit en chiffre d'affaires ($22 638 $), ce produit génère une perte nette pour l'entreprise en raison de remises élevées appliquées à des coûts de revient unitaires non compressibles.
