@@ -129,10 +129,10 @@ L'analyse de la matrice de corrélation linéaire montre :
 ## 📊 Visualisations & Analyses Clés
 
 ### 1. Analyse des Corrélations & Performance par Catégorie
-![Matrice de Corrélation et Marges](images/python_preview.png)
+![Matrice de Corrélation et Marges](python_preview.png)
 
 ### 2. Analyse Complémentaire
-![Approfondissement EDA](images/python_preview_2.png)
+![Approfondissement EDA](python_preview_2.png)
 
 **Enseignements majeurs tirés des données :**
 1. **L'illusion du volume brut :** Seuls 2 produits sur 5 appartenant au Top Ventes figurent également dans le Top Profit (Canon imageCLASS et Fellowes PB500).
